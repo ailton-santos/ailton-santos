@@ -1,5 +1,4 @@
   
-https://studio.youtube.com/channel/UCC8YwTsd0rO6uViBGdDf_2w/editing/images
 
 - 🔭 I’m currently working with Data Engineering
 - 🌱 I’m currently learning Apache Airflow, Spark and AWS
@@ -13,7 +12,9 @@ https://studio.youtube.com/channel/UCC8YwTsd0rO6uViBGdDf_2w/editing/images
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="Mi-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  
   <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Mi-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Mi-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
