@@ -14,8 +14,9 @@
   🏗️ - Tecnology & Tools I use:
        </div>
 
-<div style="justify-content-center"><br>
+<div style="display:inline_block"><br>
  
+  <div>
   <img align="center" alt="Ai-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <img align="center" alt="Ai-C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
@@ -54,7 +55,7 @@
   
  <img align="center" alt="Ai-Matlab" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> 
   
-
+  </div>
 </div>
  <br>
  🤝 - Let's connect:
