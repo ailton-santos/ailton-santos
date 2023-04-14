@@ -1,4 +1,4 @@
-  <img src="https://github.com/millenagena/millenagena/blob/main/background-image.jpeg?raw=true" title="capa" alt="capa" />
+  
 
 
 - 🔭 I’m currently working with Data Engineering
