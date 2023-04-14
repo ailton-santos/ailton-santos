@@ -1,5 +1,5 @@
   
-
+https://studio.youtube.com/channel/UCC8YwTsd0rO6uViBGdDf_2w/editing/images
 
 - 🔭 I’m currently working with Data Engineering
 - 🌱 I’m currently learning Apache Airflow, Spark and AWS
