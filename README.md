@@ -45,9 +45,6 @@
  
  <img align="center" alt="Ai-Blender" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">  
   
- <img align="center" alt="Ai-Photoshop" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">  
-  
- <img align="center" alt="Ai-Minitab" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-plain.svg">
   
  <img align="center" alt="Ai-AndroidStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   
