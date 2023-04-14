@@ -19,6 +19,8 @@ https://studio.youtube.com/channel/UCC8YwTsd0rO6uViBGdDf_2w/editing/images
   <img align="center" alt="Mi-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mi-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mi-Html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mi-Html" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">        
+          
 </div>
  
 ##
