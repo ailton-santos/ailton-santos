@@ -1,8 +1,6 @@
-<p align="center">
-	<img src="DarioArzabaHero.png" alt="my banner">
-</p>
 
-📌 I’m Control and Automation Engineer with strong Passion to the tech industry including:
+
+📌 I’m Control and Automation Engineer with strong passion to the tech industry including:
 
     - Robotics
     - Machine learning
