@@ -1,6 +1,6 @@
   🤗 Hi I'm Ailton
 
-- 🔥 I’m Control and Automation Engineer with strong Passion for:
+📌 I’m Control and Automation Engineer with strong Passion for:
 
     -  Development
     -  Project
@@ -13,7 +13,7 @@
 </div>
 <br>
    
-  🏗️ - Tecnology & Tools I use:
+ 🏗️ - Tecnology & Tools I use:
        </div>
 
 <div style="display:inline_block"><br>
@@ -60,7 +60,7 @@
   </div>
 </div>
  <br>
- 🤝 - Let's connect:
+ 🚀 - Let's connect:
 
 <div> 
  <br>
