@@ -1,10 +1,14 @@
+<p align="center">
+	<img src="DarioArzabaHero.png" alt="my banner">
+</p>
 
+📌 I’m Control and Automation Engineer with strong Passion to the tech industry including:
 
-📌 I’m Control and Automation Engineer with strong Passion for:
-
-    -  Development
-    -  Project
-    -  Technology and Training 
+    - Robotics
+    - Machine learning
+    - Embedded systems
+    - Data analysis
+    - Training 
 
 <div align="center">
   <a href="https://github.com/ailton-santos">
