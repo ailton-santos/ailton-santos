@@ -1,4 +1,4 @@
-  🤗 Hi I'm Ailton
+
 
 📌 I’m Control and Automation Engineer with strong Passion for:
 
