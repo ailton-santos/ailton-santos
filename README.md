@@ -10,9 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/ailton-santos">
-  <img height="183cm" src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=algolia&count_private=true"/>
       
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <br>
    
