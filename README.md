@@ -1,6 +1,4 @@
 
-
-
 📌 I’m Control and Automation Engineer with strong passion to the tech industry including:
 
     - Robotics
