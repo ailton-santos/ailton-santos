@@ -9,9 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/ailton-santos">
-  
-      
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
    
@@ -19,6 +17,7 @@
        </div>
 
 <div style="display:inline_block"><br>
+
  
   <div>
    <img align="center" alt="Ai-C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
