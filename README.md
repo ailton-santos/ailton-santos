@@ -1,4 +1,5 @@
 
+![Snake animation](https://github.com/ailton-santos/ailton-santos/blob/output/github-contribution-grid-snake.svg)
 
 📌 I’m Control and Automation Engineer with strong passion to the tech industry including:
 
@@ -70,5 +71,4 @@
   
 </div>
 
-![Snake animation](https://github.com/ailton-santos/ailton-santos/blob/output/github-contribution-grid-snake.svg)
   
