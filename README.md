@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/ailton-santos">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=prussian&count_private=true"/>
+  
       
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&theme=prussian"/>
 </div>
@@ -48,7 +48,6 @@
   <img align="center" alt="Ai-Moodle" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
   
   <img align="center" alt="Ai-Blender" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> 
- 
      
  <img align="center" alt="Ai-AndroidStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   
