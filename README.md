@@ -67,5 +67,3 @@
    
   
 </div>
-
-  ![snake gif](https://github.com/ailton-santos/ailton-santos/blob/output/github-contribution-grid-snake.svg)
