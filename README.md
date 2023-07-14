@@ -1,11 +1,10 @@
+# 📌 Hi, I'm Ailton
 
-📌 I’m Control and Automation Engineer with strong passion to the tech industry including:
-
-    - Robotics
-    - Machine learning
-    - Embedded systems
-    - Data analysis
-    - Training 
+<table width="200px" border="1">
+  <tr><td>
+ <p style="text-align: justify;">🚀 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.</p>
+  </td></tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/ailton-santos">
@@ -57,7 +56,7 @@
   </div>
 </div>
  <br>
- 🚀 - Let's connect:
+  - Let's connect:
 
 <div> 
  <br>
