@@ -23,6 +23,8 @@
    <img align="center" alt="Ai-C#" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     
 <img align="center" alt="Ai-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Ai-Jupyter" height="40" width="50" src="https://github.com/bwks/vendor-icons-svg/blob/master/jupyter.svg"> 
   
    <img align="center" alt="Ai-Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   
@@ -42,7 +44,7 @@
     
   <img align="center" alt="Ai-Moodle" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
   
-  <img align="center" alt="Ai-Jupyter" height="40" width="50" src="https://github.com/bwks/vendor-icons-svg/blob/master/jupyter.svg"> 
+
      
  <img align="center" alt="Ai-AndroidStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   
@@ -51,6 +53,9 @@
  <img align="center" alt="Ai-Matlab" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> 
 
  <img align="center" alt="Ai-OpenCV" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"> 
+
+ <img align="center" alt="Ai-REVIT25" height="40" width="50" src=" https://github.com/slantis/revit-logos/blob/Revit/Revit%202025%20-%20full.ico"> 
+
       
   </div>
 </div>
