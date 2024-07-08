@@ -37,13 +37,12 @@
    <img align="center" alt="Mi-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
    <img align="center" alt="Ai-Javascript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    
-    
+       
    <img align="center" alt="Ai-Mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     
   <img align="center" alt="Ai-Moodle" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
   
-  <img align="center" alt="Ai-Blender" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> 
+  <img align="center" alt="Ai-Jupyter" height="40" width="50" src="https://github.com/bwks/vendor-icons-svg/blob/master/jupyter.svg"> 
      
  <img align="center" alt="Ai-AndroidStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   
