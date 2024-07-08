@@ -54,7 +54,7 @@
 
  <img align="center" alt="Ai-OpenCV" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"> 
 
- <img align="center" alt="Ai-REVIT25" height="40" width="50" src=" https://github.com/slantis/revit-logos/blob/Revit/Revit%202025%20-%20full.ico"> 
+ <img align="center" alt="Ai-REVIT" height="40" width="50" src=" https://github.com/simple-icons/simple-icons/blob/develop/icons/autodeskrevit.svg"> 
 
       
   </div>
