@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ailton
-
+![Development and Automation] (https://github.com/ailton-santos/ailton-santos/blob/main/Add%20a%20heading%20(1).png)
 <table width="200px" border="1">
   <tr><td>
  <p style="text-align: justify;">📌 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.</p>
