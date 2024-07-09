@@ -3,12 +3,6 @@
 
 ## 📌 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.
 
-<table width="200px" border="1">
-  <tr><td>
- <p style="text-align: justify;"></p>
-  </td></tr>
-</table>
-
 <div align="center">
   <a href="https://github.com/ailton-santos">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailton-santos&layout=compact&langs_count=7&prussian"/>
