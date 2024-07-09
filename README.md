@@ -1,7 +1,7 @@
 ![Development and Automation](https://github.com/ailton-santos/ailton-santos/blob/main/Head_Profile.jpg)
 #  Hi there 👋, I'm Ailton
 
-📌 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.
+## 📌 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.
 
 <table width="200px" border="1">
   <tr><td>
