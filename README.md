@@ -7,7 +7,7 @@
 <a href="https://codepen.io/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ailtonjsantos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ailtonjsantos" height="30" width="40" /></a>
 <a href="https://kaggle.com/diplingtom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diplingtom" height="30" width="40" /></a>
-<a href="https://www.xing.com/profile/Ailton_DosSantos7" target="_blank"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white](https://iconduck.com/icons/185543/xing" target="_blank"></a>
+<a href="https://www.xing.com/profile/Ailton_DosSantos7" target="_blank"><img src="https://iconduck.com/icons/185543/xing" target="_blank"></a>
 </p>
 
 <h3 align="left"> 🏗️ Languages and Tools:</h3>
