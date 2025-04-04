@@ -1,7 +1,5 @@
 ![Development and Automation](https://github.com/ailton-santos/ailton-santos/blob/main/Head_Profil.png)
 <h1 align="center"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/Hello_Devs.gif" alt="ailtonjsantos" height="150" width="300" /></h1>
-<br>
-<br>
 <h3 align="left"> 📫 Connect with me:</h3>
 <br>
 <br>
