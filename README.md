@@ -17,13 +17,6 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailton-santos&hide_progress=true&locale=en&layout=compact&theme=transparent" alt="ailton-santos" /></p>
 
 
-
-# 👋 Hi, I'm Ailton Dos Santos
-
-🎯 Solution-driven Engineer focused on BIM, AI, Robotics, Dev, Data Science, Safety & Sustainability.
-
-🌍 Passionate about delivering smart and safe engineering solutions with a global impact.
-
 ---
 
 ## 📂 Repositories by Technical Area
