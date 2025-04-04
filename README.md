@@ -2,7 +2,6 @@
 <h1 align="center"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/Hello_Devs.gif" alt="ailtonjsantos" height="150" width="300" /></h1>
 <h3 align="left"> 📫 Connect with me:</h3>
 <br>
-<br>
 <p align="left">
 <a href="https://codepen.io/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ailtonjsantos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ailtonjsantos" height="30" width="40" /></a>
