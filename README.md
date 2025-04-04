@@ -64,3 +64,18 @@
 - [Materials in R](link) – R resources for data analysis and visualization
 
 
+
+## 📂 Repositories by Technical Area (Tabular View)
+
+| **Area**                          | **Projects** |
+|----------------------------------|--------------|
+| 🧱 **BIM & Civil Engineering**   | [Fundation80m2](https://github.com/ailton-santos/Fundation80m2) · [BuildingFlow](https://github.com/ailton-santos/BuildingFlow) · [Noise_NR15](https://github.com/ailton-santos/Noise_NR15) |
+| 🤖 **Robotics & Automation**     | [Robotics-Dynamics-Control](https://github.com/ailton-santos/Robotics-Dynamics-Control) · [Neural_Inline](https://github.com/ailton-santos/Neural_Inline) · [Network_Ids](https://github.com/ailton-santos/Network_Ids) · [AGVPlan](https://github.com/ailton-santos/AGVPlan) |
+| 📊 **Data Science & AI**         | [Python_DataScience](https://github.com/ailton-santos/Python_DataScience) · [R.DataScience](https://github.com/ailton-santos/R.DataScience) · [BigDataApplication](https://github.com/ailton-santos/BigDataApplication) · [PredictFlightML](https://github.com/ailton-santos/PredictFlightML) |
+| 🛡️ **Health, Safety & Industry**| [leanconstruction](https://github.com/ailton-santos/leanconstruction) · [Analysis_Efforts](https://github.com/ailton-santos/Analysis_Efforts) · [InstrumentationControl](https://github.com/ailton-santos/InstrumentationControl) |
+| ☀️ **Renewable Energy**         | [PVSolarSavings](https://github.com/ailton-santos/PVSolarSavings) · [WindEnergy](https://github.com/ailton-santos/WindEnergy) · [SmartGrid](https://github.com/ailton-santos/SmartGrid) |
+| 💻 **Software Development**      | [Csharp_POO](https://github.com/ailton-santos/Csharp_POO) · [Front_End_Fundamentals](https://github.com/ailton-santos/Front_End_Fundamentals) · [SnackBar](https://github.com/ailton-santos/SnackBar) |
+| 🌐 **IoT & Smart Systems**       | [IoT](https://github.com/ailton-santos/IoT) · [TempSensorBuzzer](https://github.com/ailton-santos/TempSensorBuzzer) · [Vehicle-Fleet-Route](https://github.com/ailton-santos/Vehicle-Fleet-Route) |
+| 🎓 **Educational Resources**     | [Teaching Notebooks](https://github.com/ailton-santos/Teaching-Notebooks) · [Materials in R](https://github.com/ailton-santos/Materials-in-R) |
+
+
