@@ -18,54 +18,7 @@
 
 ---
 
-## 📂 Repositories by Technical Area
-
-### 🧱 BIM & Civil Engineering
-- [Fundation80m2](link) – Foundation design project  
-- [BuildingFlow](link) – Construction flow analysis  
-- [Noise_NR15](link) – Occupational noise assessment  
-
-### 🤖 Robotics & Automation
-- [Robotics-Dynamics-Control](link) – Dynamic control using MATLAB  
-- [Neural_Inline](link) – Neural network-based control  
-- [Network_Ids](link) – Network identification with C++  
-- [AGVPlan](link) – Autonomous guided vehicle planning  
-
-### 📊 Data Science & AI
-- [Python_DataScience](link) – Data analysis with Pandas & Matplotlib  
-- [R.DataScience](link) – Data insights with R  
-- [BigDataApplication](link) – Big data applications  
-- [PredictFlightML](link) – Flight delay prediction using ML  
-
-### 🛡️ Health, Safety & Industry Standards
-- [leanconstruction](link) – Lean methodology applied to construction  
-- [Analysis_Efforts](link) – Ergonomic and effort analysis  
-- [InstrumentationControl](link) – Industrial instrument safety control  
-
-### ☀️ Renewable Energy & Sustainability
-- [PVSolarSavings](link) – Solar panel savings simulator  
-- [WindEnergy](link) – Wind power analysis  
-- [SmartGrid](link) – Intelligent power grid modeling  
-
-### 💻 Development & Software Engineering
-- [Csharp_POO](link) – Object-oriented programming in C#  
-- [Front_End_Fundamentals](link) – HTML/CSS fundamentals  
-- [SnackBar](link) – Lightweight control system in Python  
-
-### 🌐 IoT & Smart Systems
-- [IoT](link) – Sensor-based IoT system  
-- [TempSensorBuzzer](link) – Temperature alert with buzzer  
-- [Vehicle-Fleet-Route](link) – Smart vehicle routing system  
-
----
-
-## 🎓 Educational Resources
-- [Teaching Notebooks](link) – Notebooks on data science, AI, machine learning  
-- [Materials in R](link) – R resources for data analysis and visualization
-
-
-
-## 📂 Repositories by Technical Area (Tabular View)
+## 📂 Repos by Technical Area
 
 | **Area**                          | **Projects** |
 |----------------------------------|--------------|
