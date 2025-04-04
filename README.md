@@ -1,7 +1,6 @@
 ![Development and Automation](https://github.com/ailton-santos/ailton-santos/blob/main/Head_Profil.png)
 <h1 align="center"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/Hello_Devs.gif" alt="ailtonjsantos" height="150" width="300" /></h1>
-<h3 align="justify">📌 My mission is to apply my knowledge and skills in challenging projects, contributing to process automation, development of robotic solutions, data analysis, building design and team empowerment.</h3>
-
+<br>
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ailtonjsantos" height="30" width="40" /></a>
