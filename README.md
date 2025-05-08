@@ -46,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Pandas.jpg" alt="pandas" width="30" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/nodejs.jpg" alt="nodejs" width="30" height="30"/>
 </p>
 
