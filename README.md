@@ -85,7 +85,7 @@
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Revit.jpg" height="30" alt="revit"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/National_Instruments_Logo.svg" height="30" alt="labview"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/labview.jpg" height="30" alt="labview"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
