@@ -2,7 +2,6 @@
 <h3 align="left"> 📫 Connect with me:</h3>
 <br>
 <p align="center">
-<a href="https://codepen.io/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ailtonjsantos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ailtonjsantos" height="30" width="40" /></a>
 <a href="https://kaggle.com/diplingtom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diplingtom" height="30" width="40" /></a>
 <a href="https://www.xing.com/profile/Ailton_DosSantos7" target="blank"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/icon_xing.png" alt="diplingtom" height="40" width="40" /></a>
