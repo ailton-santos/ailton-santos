@@ -94,8 +94,8 @@
 
 ## 🔹 Operational Systems
 <p align="left">
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/kali.jpg" alt="kali-linux" width="40" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Dat-Linux.jpg" alt="dat-linux" width="40" height="30"/> 
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/kali.jpg" alt="kali-linux" width="30" height="30"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Dat-Linux.jpg" alt="dat-linux" width="30" height="30"/> 
 </p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailton-santos&hide_progress=true&locale=en&layout=compact&theme=transparent" alt="ailton-santos" /></p>
