@@ -1,4 +1,4 @@
-![Development and Automation](https://github.com/ailton-santos/ailton-santos/blob/main/Head_Profil.png)
+![Development and Automation](https://github.com/ailton-santos/ailton-santos/blob/main/Head_Profile.gif)
 <h1 align="center"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/Hello_Devs.gif" alt="ailtonjsantos" height="150" width="300" /></h1>
 <h3 align="left"> 📫 Connect with me:</h3>
 <br>
