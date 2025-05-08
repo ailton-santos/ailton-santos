@@ -102,7 +102,7 @@
 
 ---
 
-## 📂 Repos by Technical Area
+## 📂 Explore my projects by category:
 
 | **Area**                          | **Projects** |
 |----------------------------------|--------------|
