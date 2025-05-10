@@ -10,6 +10,7 @@
 ## 🔹 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
+  <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" height="30" alt="r"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"/>
@@ -33,7 +34,6 @@
 
 ## 🔹 Frameworks & Libraries
 <p align="left">
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
@@ -43,6 +43,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/nodejs.jpg" alt="nodejs" width="30" height="30"/>
@@ -53,12 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" alt="dotnet" width="40" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/kali.jpg" alt="kali-linux" width="30" height="30"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Dat-Linux.jpg" alt="dat-linux" width="30" height="30"/> 
 </p>
 
 ## 🔹 Databases
@@ -67,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
-  
+  <img src="https://en.m.wikipedia.org/wiki/File:Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
 </p>
 
 ## 🔹 AI, ML & Analytics
@@ -89,11 +90,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
 </p>
 
-## 🔹 Operational Systems
-<p align="left">
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/kali.jpg" alt="kali-linux" width="30" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Dat-Linux.jpg" alt="dat-linux" width="30" height="30"/> 
-</p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailton-santos&hide_progress=true&locale=en&layout=compact&theme=transparent" alt="ailton-santos" /></p>
 
