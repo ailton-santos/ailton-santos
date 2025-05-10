@@ -68,10 +68,14 @@
 <p align="left">
  
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Rockwell_Automation_logo_%282019%29.svg" height="30" alt="rockwell"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg" height="30" alt="festo"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/DIALux_Logo.png" alt="dialux" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="minitab" height="30"/>
   
 </p>
 
