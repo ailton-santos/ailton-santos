@@ -55,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/serkonda7/vscode-vba/ffe259b187156bba52a5c0d65e431975eda38e57/images/icon.png" alt="vba" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" height="30" alt="dot-net"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" height="30"/>
 </p>
 
 ## 🔹 Databases
