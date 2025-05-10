@@ -68,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
-  <img src="https://en.m.wikipedia.org/wiki/File:Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
 </p>
 
 ## 🔹 AI, ML & Analytics
