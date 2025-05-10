@@ -30,7 +30,7 @@
   
   <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
   <img src="https://graphisoft.com/content/uploads/2024/08/Archicad-launch-icon.png" height="30" alt="archicad"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Tekla-logo.svg" height="30" alt="tekla" height="30">
+  <img src="https://vectorseek.com/wp-content/uploads/2023/12/Tekla-Icon-Logo-Vector.svg-.png" height="30" alt="tekla" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30" alt="unrealengine"/>
   <img src="https://loja.altoqi.com.br/media/catalog/product/cache/c73e408f05519e5aaf6cb5b3172fd42f/i/m/image_104.jpg" height="30" alt="eberick"/>
   <img src="https://loja.altoqi.com.br/media/catalog/product/cache/c73e408f05519e5aaf6cb5b3172fd42f/l/o/logo_builder_1.png" height="30" alt="builder"/>
