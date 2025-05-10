@@ -68,7 +68,7 @@
 <p align="left">
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="ptc-creo" height="30"/>
-  <img src="https://inetec.com.br/wp-content/uploads/2023/04/siemens-v17.png" height="30" alt="siemens"/>
+  <img src="https://downloadlynet.ir/wp-content/uploads/2024/03/Siemens-Simatic-TIA.png" height="30" alt="siemens"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="minitab" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Rockwell_Automation_logo_%282019%29.svg" height="30" alt="rockwell"/>
