@@ -104,19 +104,9 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="30" height="30" alt="dat-linux/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana"/>
   
 </p>
-
-
-
-
-
-
-
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailton-santos&hide_progress=true&locale=en&layout=compact&theme=transparent" alt="ailton-santos" /></p>
-
 
 ---
 
