@@ -120,3 +120,5 @@
 | 🎓 **Educational Resources**     | [Python](https://github.com/ailton-santos/Python_I) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [Python for Math](https://github.com/ailton-santos/Python_Math) · [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [C#](https://github.com/ailton-santos/CSharp_POO) ·  [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Front-End](https://github.com/ailton-santos/Front_End_Fundamentals) · [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) · [Electro](https://github.com/ailton-santos/PBLElectro) · [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) |
 
 
+![Snake animation](https://github.com/ailton-santos/ailton-santos/blob/output/github-contribution-grid-snake.svg)
+
