@@ -49,6 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/vba.jpg" alt="vba" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
 ## 🔹 Front-End & Design
@@ -61,16 +64,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
-</p>
-
-## 🔹 Frameworks & Libraries
-<p align="left">
-  
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
 ## 🔹 Tools & Platforms
