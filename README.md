@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="pydantic" height="30"/>
+  <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="scipy" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="hadoop" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" height="30"/>
