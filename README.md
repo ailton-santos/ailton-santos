@@ -17,6 +17,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="pydantic" width="30" height="30"/>
 </p>
 
 ## 🔹 Programming Languages
