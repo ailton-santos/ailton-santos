@@ -33,7 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Tekla-logo.svg" height="30" alt="tekla" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30" alt="unrealengine"/>
   <img src="https://cdn.prod.website-files.com/65b431b6732bad717c31e53b/65b43cac109340a6eea3711b_brand-horizontal.png" height="30" alt="altoqi"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/SketchUp_Logo_2020.svg" height="30" alt="sketchup"/>
+  <img src="https://cdn.brandfetch.io/id6JY24Jff/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667581865394" height="30" alt="sketchup"/>
   
 </p>
 
