@@ -29,7 +29,7 @@
 <p align="left">
   
   <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
-  <img src="https://brandlogos.net/wp-content/uploads/2025/04/navisworks-logo_brandlogos.net_cczxx-512x468.png" height="30" alt="navisworks"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2025/04/navisworks-logo_brandlogos.net_cczxx-512x468.png" height="20" alt="navisworks"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Tekla-logo.svg" height="30" alt="tekla" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Archicad-logo-1.png" height="30" alt="archicad"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30" alt="unrealengine"/>
