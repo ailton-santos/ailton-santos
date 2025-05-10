@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYi975dwlTWtrRvLpbL2znI0N4WlqydV6-g&s" height="30" alt="elasticserach"/>
 </p>
 
 ## 🔹 Engineering
