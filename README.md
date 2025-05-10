@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/vba.jpg" alt="vba" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/serkonda7/vscode-vba/ffe259b187156bba52a5c0d65e431975eda38e57/images/icon.png" alt="vba" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
@@ -75,7 +75,6 @@
   <img src="https://ni.scene7.com/is/image/ni/LabVIEW_152x116?$ni-icon-pm$" height="30" alt="labview"/>
   <img src="https://www.cognex.com/library/media/resources/videos/vision-systems/auto-tune---food-and-beverage-industry.jpg?h=542&w=962&la=it-IT&hash=99019B940370EC1AA7A978FC06CA02A5" weight="30" height="30"  alt="cognex"/>
   <img src="https://i.ytimg.com/vi/jJjngIQycZk/maxresdefault.jpg" height="30" alt="festo"/>
-  
   <img src="https://relux.com/web/image/1370874-30028f65/rd1.png" alt="relux" height="30"/>
   <img src="https://dwsim.org/wp-content/uploads/2021/02/DWSIM_logo_with_name_NoSim.png" alt="dwsim" height="30"/>
   <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" alt="gazebo" alt="gazebo" height="30"/>
