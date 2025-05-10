@@ -76,7 +76,7 @@
   <img src="https://www.cognex.com/library/media/resources/videos/vision-systems/auto-tune---food-and-beverage-industry.jpg?h=542&w=962&la=it-IT&hash=99019B940370EC1AA7A978FC06CA02A5" weight="30" height="30"  alt="cognex"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg" height="30" alt="festo"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/DIALux_Logo.png" alt="dialux" height="30"/>
+  <img src="https://relux.com/web/image/1370874-30028f65/rd1.png" alt="relux" height="30"/>
   <img src="https://dwsim.org/wp-content/uploads/2021/02/DWSIM_logo_with_name_NoSim.png" alt="dwsim" height="30"/>
   <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" alt="gazebo" alt="gazebo" height="30"/>
    
