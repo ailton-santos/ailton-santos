@@ -18,7 +18,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="hadoop" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" alt="hugging-face" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" alt="hugging-face" height="30"/>
 </p>
 
 ## 🔹 Programming Languages
