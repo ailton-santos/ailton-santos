@@ -107,7 +107,7 @@
  <br>
 ## 📋 Project Topics by Category
 
-| **Area**                          | **Projects** |
+| **Area**                         | **Projects** |
 |----------------------------------|--------------|
 | 📊 **Data Science & AI**         | [Big Data Application](https://github.com/ailton-santos/BigDataApplication) · [Predict Flight Machine Learning](https://github.com/ailton-santos/PredictFlightML) · [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) · [Machine Vision](https://github.com/ailton-santos/MachineVision) · [Fault Forecasting Transport](https://github.com/ailton-santos/Neural_Inline) · [Forest Fire Simulation](https://github.com/ailton-santos/Forest_Fire_Simulation) |
 | 🤖 **Control Engineering & Robotics**     | [Robotics Dynamics](https://github.com/ailton-santos/Robotics-Dynamics-Control) · [Network Monitoring](https://github.com/ailton-santos/Network_Ids) · [Chemical Process](https://github.com/ailton-santos/Process_Control) · [AGV](https://github.com/ailton-santos/AGVPlan) · [Traffic Light](https://github.com/ailton-santos/TrafficLight) · [Legacy Robotics](https://github.com/ailton-santos/LegacyRoboticSystems) · [Instrumentation](https://github.com/ailton-santos/InstrumentationControl) · [Industrial Networks](https://github.com/ailton-santos/IndustrialNetworks) · [Business Plan](https://github.com/ailton-santos/BPManEletrica) |
