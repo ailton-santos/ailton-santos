@@ -107,7 +107,6 @@
   
 ## 🔹  Project Topics by Category
 
-
 | **Area**                         | **Projects** |
 |----------------------------------|--------------|
 | 📊 **Data Science & AI**         | [Big Data Application](https://github.com/ailton-santos/BigDataApplication) · [Predict Flight Machine Learning](https://github.com/ailton-santos/PredictFlightML) · [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) · [Machine Vision](https://github.com/ailton-santos/MachineVision) · [Fault Forecasting Transport](https://github.com/ailton-santos/Neural_Inline) · [Forest Fire Simulation](https://github.com/ailton-santos/Forest_Fire_Simulation) |
