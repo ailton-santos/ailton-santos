@@ -105,6 +105,8 @@
  
 </p>
 
+<br>
+
 ## 📂 Explore my projects by category:
 
 | **Area**                          | **Projects** |
