@@ -32,9 +32,10 @@
   <img src="https://graphisoft.com/content/uploads/2024/08/Archicad-launch-icon.png" height="30" alt="archicad"/>
   <img src="https://vectorseek.com/wp-content/uploads/2023/12/Tekla-Icon-Logo-Vector.svg-.png" height="30" alt="tekla" height="30">
   <img src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-7017516947713345x5letwbsz.png" height="30" alt="unrealengine"/>
+  <img src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/5b00940954551c62244d218bfd2a32686e55809f/public" height="30" alt="sketchup"/>
   <img src="https://loja.altoqi.com.br/media/catalog/product/cache/c73e408f05519e5aaf6cb5b3172fd42f/i/m/image_104.jpg" height="30" alt="eberick"/>
   <img src="https://loja.altoqi.com.br/media/catalog/product/cache/c73e408f05519e5aaf6cb5b3172fd42f/l/o/logo_builder_1.png" height="30" alt="builder"/>
-  <img src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/5b00940954551c62244d218bfd2a32686e55809f/public" height="30" alt="sketchup"/>
+  
   
 </p>
 
