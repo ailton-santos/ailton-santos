@@ -23,6 +23,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" alt="hugging-face" height="30"/>
 </p>
 
+## 🔹 BIM, Design & Engineering
+<p align="left">
+  <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab"/>
+</p>
+
 ## 🔹 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
@@ -32,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/java.jpg" alt="java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/vba.jpg" alt="vba" width="30" height="30"/>
@@ -84,17 +95,7 @@
 
 
 
-## 🔹 BIM, Design & Engineering
-<p align="left">
-  <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab"/>
-</p>
+
 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailton-santos&hide_progress=true&locale=en&layout=compact&theme=transparent" alt="ailton-santos" /></p>
