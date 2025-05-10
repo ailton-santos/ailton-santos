@@ -69,7 +69,7 @@
  
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Rockwell_Automation_logo_%282019%29.svg" height="30" alt="rockwell"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
+  <img src="https://ni.scene7.com/is/image/ni/LabVIEW_152x116?$ni-icon-pm$" height="30" alt="labview"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cognex_Corp_logo.svg" weight="30" height="30"  alt="cognex"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg" height="30" alt="festo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="ptc-creo" height="30"/>
