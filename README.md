@@ -74,7 +74,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/RSLogix.svg" height="30" alt="rockwell"/>
   <img src="https://ni.scene7.com/is/image/ni/LabVIEW_152x116?$ni-icon-pm$" height="30" alt="labview"/>
   <img src="https://www.cognex.com/library/media/resources/videos/vision-systems/auto-tune---food-and-beverage-industry.jpg?h=542&w=962&la=it-IT&hash=99019B940370EC1AA7A978FC06CA02A5" weight="30" height="30"  alt="cognex"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg" height="30" alt="festo"/>
+  <img src="https://i.ytimg.com/vi/jJjngIQycZk/maxresdefault.jpg" height="30" alt="festo"/>
   
   <img src="https://relux.com/web/image/1370874-30028f65/rd1.png" alt="relux" height="30"/>
   <img src="https://dwsim.org/wp-content/uploads/2021/02/DWSIM_logo_with_name_NoSim.png" alt="dwsim" height="30"/>
