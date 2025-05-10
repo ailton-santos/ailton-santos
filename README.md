@@ -116,6 +116,36 @@
 
 ## 📋 Project Topics by Category
 
+### 🧠 Big Data & Analytics
+- Big Data Application
+- Predict Flight Machine Learning
+- Cognitive Computing
+- Machine Vision
+- Fault Forecasting Transport
+- Forest Fire Simulation
+
+### 🤖 Control Engineering & Robotics
+- Robotics Dynamics
+- Network Monitoring
+- Chemical Process
+- AGV
+- Traffic Light
+- Legacy Robotics
+- Instrumentation
+- Industrial Networks
+- Business Plan
+
+### 🏗️ Civil Engineering & Architecture
+- Fundation
+- Building Flow
+- Lean Construction
+- Fire Pavements
+- Property Valuation
+- Comercial Building Beam
+
+
+## 📋 Project Topics by Category
+
 | **Category**                       | **Projects** |
 |-----------------------------------|--------------|
 | **Big Data & Analytics**          | Big Data Application · Predict Flight Machine Learning · Cognitive Computing · Machine Vision · Fault Forecasting Transport · Forest Fire Simulation |
