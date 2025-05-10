@@ -30,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="30"/>
 </p>
 
 ## 🔹 Frameworks & Libraries
@@ -44,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/nodejs.jpg" alt="nodejs" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
