@@ -68,15 +68,17 @@
 <p align="left">
  
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="minitab" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Rockwell_Automation_logo_%282019%29.svg" height="30" alt="rockwell"/>
   <img src="https://ni.scene7.com/is/image/ni/LabVIEW_152x116?$ni-icon-pm$" height="30" alt="labview"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cognex_Corp_logo.svg" weight="30" height="30"  alt="cognex"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg" height="30" alt="festo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="ptc-creo" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/DIALux_Logo.png" alt="dialux" height="30"/>
   <img src="https://dwsim.org/wp-content/uploads/2021/02/DWSIM_logo_with_name_NoSim.png" alt="dwsim" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="minitab" height="30"/>
+  <img src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="gazebo"/>
+  
   
 </p>
 
