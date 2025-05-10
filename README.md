@@ -58,7 +58,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/kali.jpg" alt="kali-linux" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Dat-Linux.jpg" alt="dat-linux" width="30" height="30"/> 
 </p>
 
