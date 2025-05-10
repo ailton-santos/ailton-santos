@@ -77,7 +77,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="ptc-creo" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/DIALux_Logo.png" alt="dialux" height="30"/>
   <img src="https://dwsim.org/wp-content/uploads/2021/02/DWSIM_logo_with_name_NoSim.png" alt="dwsim" height="30"/>
-  <img src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="gazebo" alt="gazebo" height="50"/>
+  <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" alt="gazebo" alt="gazebo" height="30"/>
    
 </p>
 
