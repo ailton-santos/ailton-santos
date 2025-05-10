@@ -98,67 +98,14 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux/> 
-
-  
+ 
 </p>
 
----
-
 ## 📂 Explore my projects by category:
-
-## 📋 Project Topics by Category
-
-### 🧠 Big Data & Analytics
-- Big Data Application
-- Predict Flight Machine Learning
-- Cognitive Computing
-- Machine Vision
-- Fault Forecasting Transport
-- Forest Fire Simulation
-
-### 🤖 Control Engineering & Robotics
-- Robotics Dynamics
-- Network Monitoring
-- Chemical Process
-- AGV
-- Traffic Light
-- Legacy Robotics
-- Instrumentation
-- Industrial Networks
-- Business Plan
-
-### 🏗️ Civil Engineering & Architecture
-- Fundation
-- Building Flow
-- Lean Construction
-- Fire Pavements
-- Property Valuation
-- Comercial Building Beam
-
-
-## 📋 Project Topics by Category
-
-| **Category**                       | **Projects** |
-|-----------------------------------|--------------|
-| **Big Data & Analytics**          | Big Data Application · Predict Flight Machine Learning · Cognitive Computing · Machine Vision · Fault Forecasting Transport · Forest Fire Simulation |
-| **Control Engineering & Robotics**| Robotics Dynamics · Network Monitoring · Chemical Process · AGV · Traffic Light · Legacy Robotics · Instrumentation · Industrial Networks · Business Plan |
-| **Civil Engineering & Architecture** | Fundation · Building Flow · Lean Construction · Fire Pavements · Property Valuation · Comercial Building Beam |
-| **Health & Safety**               | NR15 · Noise Efficiency · Medikamentendosierung · Patient Record · Medicine Filling |
-| **Renewable Energy**              | PV Solar Savings · Wind Energy · Smart-Grid · Energy |
-| **Software Development**          | SnackBar · Hamburgueria Marinheiro · Lid Positioning · Lean Manufacturing · Food Control · File Sharing · Version Control Quality · R · Layer Controller |
-| **IoT & Smart Systems**           | IoT · TempSensor Buzzer · Vehicle Fleet Route · Siemens S7 1500 User |
-| **Educational Resources**         | Python · Python for Data Science · Python for Math · Python for Artificial Intelligence · C# · R for Data Science · Front-End · Android Studio · Electro · Mechatronic Systems |
-
-
-
 
 | **Area**                          | **Projects** |
 |----------------------------------|--------------|
