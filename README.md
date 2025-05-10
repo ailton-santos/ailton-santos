@@ -81,7 +81,7 @@
 
 ## 🔹 BIM, Design & Engineering
 <p align="left">
-  <img src="https://en.m.wikipedia.org/wiki/Autodesk_Revit#/media/File%3AAutodesk_Revit_2022_rebrand_Logo.png" height="30" alt="revit"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
