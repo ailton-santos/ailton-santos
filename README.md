@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ailtonjsantos" height="30" width="40" /></a>
-<a href="https://bilds.com/ailtonsantos" target="blank"><img align="center" src="https://altoqi-dev-bilds.s3.amazonaws.com/1669739198423-5ae59399-917f-4b2b-a46d-a181176da1eb.jpeg" alt="diplingtom" height="30" width="40" /></a>
+<a href="https://bilds.com/ailtonsantos" target="blank"><img align="center" src="https://altoqi-dev-bilds.s3.amazonaws.com/1669739198423-5ae59399-917f-4b2b-a46d-a181176da1eb.jpeg" alt="diplingtom" height="40" width="40" /></a>
 <a href="https://www.xing.com/profile/Ailton_DosSantos7" target="blank"><img align="center" src="https://github.com/ailton-santos/ailton-santos/blob/main/icon_xing.png" alt="diplingtom" height="40" width="40" /></a>
 </p>
 
