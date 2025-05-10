@@ -16,7 +16,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="pydantic" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-  <img src="https://icon-icons.com/pt/icone/apache-hadoop-logo/169586" alt="hadoop" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="hadoop" width="40" height="40"/>
 </p>
 
 ## 🔹 Programming Languages
