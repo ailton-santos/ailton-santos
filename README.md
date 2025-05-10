@@ -25,19 +25,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Hf-logo-with-title.svg" alt="hugging-face" height="30"/>
 </p>
 
-## 🔹 BIM, Design & Engineering
+## 🔹 BIM (Building Information Modeling)
 <p align="left">
+  
   <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab"/>
+   <img src="https://brandlogos.net/wp-content/uploads/2025/04/navisworks-logo_brandlogos.net_cczxx-512x468.png" height="30" alt="navisworks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Tekla-logo.svg" height="30" alt="tekla" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Archicad-logo-1.png" height="30" alt="archicad"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30" alt="unrealengine"/>
+  <img src="https://cdn.prod.website-files.com/65b431b6732bad717c31e53b/65b43cac109340a6eea3711b_brand-horizontal.png" height="30" alt="altoqi"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/SketchUp_Logo_2020.svg" height="30" alt="sketchup"/>
+  
 </p>
 
-## 🔹 Programming Languages
+## 🔹 Back-End Development
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="30" alt="r"/>
@@ -54,7 +56,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
-## 🔹 Front-End & Design
+## 🔹 Engineering
+<p align="left">
+ 
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/LabVIEW_Logo.jpg" height="30" alt="labview"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/cognex.jpg" height="30" alt="cognex"/>
+  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/PTC%20logo.jpg" alt="ptc-creo" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
+  
+</p>
+
+## 🔹 Front-End Development
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/>
@@ -64,6 +77,15 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
+</p>
+
+## 🔹 Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
 </p>
 
 ## 🔹 Tools & Platforms
@@ -76,17 +98,10 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="linux" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="linux" height="30"/>
 </p>
 
-## 🔹 Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
-</p>
+
 
 
 
