@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/java.jpg" alt="java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/vba.jpg" alt="vba" width="30" height="30"/>
 </p>
 
