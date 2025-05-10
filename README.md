@@ -114,6 +114,22 @@
 
 ## 📂 Explore my projects by category:
 
+## 📋 Project Topics by Category
+
+| **Category**                       | **Projects** |
+|-----------------------------------|--------------|
+| **Big Data & Analytics**          | Big Data Application · Predict Flight Machine Learning · Cognitive Computing · Machine Vision · Fault Forecasting Transport · Forest Fire Simulation |
+| **Control Engineering & Robotics**| Robotics Dynamics · Network Monitoring · Chemical Process · AGV · Traffic Light · Legacy Robotics · Instrumentation · Industrial Networks · Business Plan |
+| **Civil Engineering & Architecture** | Fundation · Building Flow · Lean Construction · Fire Pavements · Property Valuation · Comercial Building Beam |
+| **Health & Safety**               | NR15 · Noise Efficiency · Medikamentendosierung · Patient Record · Medicine Filling |
+| **Renewable Energy**              | PV Solar Savings · Wind Energy · Smart-Grid · Energy |
+| **Software Development**          | SnackBar · Hamburgueria Marinheiro · Lid Positioning · Lean Manufacturing · Food Control · File Sharing · Version Control Quality · R · Layer Controller |
+| **IoT & Smart Systems**           | IoT · TempSensor Buzzer · Vehicle Fleet Route · Siemens S7 1500 User |
+| **Educational Resources**         | Python · Python for Data Science · Python for Math · Python for Artificial Intelligence · C# · R for Data Science · Front-End · Android Studio · Electro · Mechatronic Systems |
+
+
+
+
 | **Area**                          | **Projects** |
 |----------------------------------|--------------|
 | 📊 **Data Science & AI**         | [Big Data Application](https://github.com/ailton-santos/BigDataApplication) · [Predict Flight Machine Learning](https://github.com/ailton-santos/PredictFlightML) · [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) · [Machine Vision](https://github.com/ailton-santos/MachineVision) · [Fault Forecasting Transport](https://github.com/ailton-santos/Neural_Inline) · [Forest Fire Simulation](https://github.com/ailton-santos/Forest_Fire_Simulation) |
