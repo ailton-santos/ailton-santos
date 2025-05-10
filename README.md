@@ -102,7 +102,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux/> 
- 
+ <br>
 </p>
 
 <br>
