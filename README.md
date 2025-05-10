@@ -81,7 +81,7 @@
 
 ## 🔹 BIM, Design & Engineering
 <p align="left">
-  <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Revit.jpg" height="30" alt="revit"/>
+  <img src="https://images.seeklogo.com/logo-png/48/1/autodesk-revit-logo-png_seeklogo-482393.png" height="30" alt="revit"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/unreal.jpg" height="30" alt="unrealengine"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/logo-siemens.jpg" height="30" alt="siemens"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/labview.jpg" height="30" alt="labview"/>
