@@ -46,7 +46,7 @@
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/Microsoft_.NET_logo.jpg" height="30" alt="dot-net"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
   <img src="https://github.com/ailton-santos/ailton-santos/blob/main/nodejs.jpg" alt="nodejs" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
 ## 🔹 Tools & Platforms
