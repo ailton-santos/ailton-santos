@@ -106,8 +106,6 @@
   <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux/> 
  <br>
 </p>
-
-<br>
 ## 📂 Explore my projects by category:
 
 | **Area**                          | **Projects** |
