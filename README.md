@@ -28,7 +28,7 @@
 ## 🔹 BIM (Building Information Modeling)
 <p align="left">
   
-  <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="40" alt="revit"/>
   <img src="https://brandlogos.net/wp-content/uploads/2025/04/navisworks-logo_brandlogos.net_cczxx-512x468.png" height="30" alt="navisworks"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Tekla-logo.svg" height="30" alt="tekla" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Archicad-logo-1.png" height="30" alt="archicad"/>
@@ -56,6 +56,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30"/>
 </p>
 
+## 🔹 Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
+</p>
+
 ## 🔹 Engineering
 <p align="left">
  
@@ -77,15 +86,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
-</p>
-
-## 🔹 Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" height="30" alt="elasticserach"/>
 </p>
 
 ## 🔹 Tools & Platforms
