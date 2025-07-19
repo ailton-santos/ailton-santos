@@ -103,10 +103,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali-linux" width="30" height="30"/>
-  <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux"/></p>
+  <img src="https://avatars.githubusercontent.com/u/99078210?v=4" width="30" height="30" alt="dat-linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" height="30" alt="dot-net"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/1024px-JetBrains_beam_logo.svg.png" height="30" alt="jetbrains"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/1024px-JetBrains_beam_logo.svg.png" height="30" alt="jetbrains"/></p>
   
   
   
