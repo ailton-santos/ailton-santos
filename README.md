@@ -52,9 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
+  <img src="https://avatars.githubusercontent.com/u/54218710?s=200&v=4" height="30" alt="javascript"/>
   <img src="https://raw.githubusercontent.com/serkonda7/vscode-vba/ffe259b187156bba52a5c0d65e431975eda38e57/images/icon.png" alt="vba" width="30" height="30"/>
-  
-  
 </p>
 
 ## 🔹 Databases
