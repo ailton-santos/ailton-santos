@@ -5,28 +5,44 @@
 <h1 align="center">Bridging Industrial Engineering & Immersive Technology</h1>
 
 <p align="center">
+  <strong>BIM Developer | AI & Robotics Engineer | Game Dev (Unreal Engine)</strong><br>
+  <em>17+ years of experience bridging Digital Twins, Human Behavior, and Industrial Tech.</em>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="35" /></a>
   <a href="https://www.xing.com/profile/Ailton_DosSantos7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="xing" height="35" /></a>
 </p>
+
+---
 
 ### 🚀 About Me
 I am a multi-disciplinary Engineer passionate about converting complex industrial data into interactive, intelligent environments. My expertise lies at the intersection of **AI-driven analytics**, **Robotic automation**, and **Real-time 3D simulation (Digital Twins)**.
 
 - 🌍 **Location:** Based in São Paulo, Brazil (Multilingual).
 - 🛠️ **Current Focus:** Unreal Engine integration for BIM and Cognitive Computing.
-- 🎓 **Education:** Constant learner, sharing resources to empower the next generation of engineers.
+- 🎓 **Education:** Constant learner, sharing resources to empower the next generation of Devs & Engineers.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack
 
 **AI, Data Science & Analytics**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/light/huggingface-color.png" alt="hugging-face" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/>
+  <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="scipy" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" height="30"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/apache_hadoop_logo_icon_169586.png" alt="hadoop" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="power-bi" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="30"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30"/>
 </p>
 
 **BIM & Engineering Tools**
@@ -39,18 +55,33 @@ I am a multi-disciplinary Engineer passionate about converting complex industria
 
 ---
 
-### 📂 Project Topics & Correlations
+### 📂 Specialized Portfolio & Project Correlations
 
-| Category | Projects & Documentation |
-| :--- | :--- |
-| 🤖 **Robotics & IoT** | [Robotics Dynamics](https://github.com/ailton-santos/Robotics-Dynamics-Control) · [AGV Planning](https://github.com/ailton-santos/AGVPlan) · [IoT Systems](https://github.com/ailton-santos/IoT) · [S7-1500 User](https://github.com/ailton-santos/S7_1500User) |
-| 🎲 **AI & Data Science** | [Predict Flight ML](https://github.com/ailton-santos/PredictFlightML) · [Machine Vision](https://github.com/ailton-santos/MachineVision) · [Big Data App](https://github.com/ailton-santos/BigDataApplication) |
-| 🧱 **BIM & Civil Eng.** | [Building Flow](https://github.com/ailton-santos/BuildingFlow) · [House Foundation](https://github.com/ailton-santos/Fundation80m2) · [Lean Construction](https://github.com/ailton-santos/leanconstruction) |
-| ☀️ **Renewable Energy** | [Smart Grid](https://github.com/ailton-santos/SmartGrid) · [PV Solar Savings](https://github.com/ailton-santos/PVSolarSavings) · [Wind Energy](https://github.com/ailton-santos/WindEnergy) |
+| Specialized Field | Key Projects (High Impact) | Extended Portfolio (Full List) |
+| :--- | :--- | :--- |
+| 🧠 **AI & Machine Vision** | [Machine Vision](https://github.com/ailton-santos/MachineVision) • [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) | [Predict Flight ML](https://github.com/ailton-santos/PredictFlightML) · [Big Data App](https://github.com/ailton-santos/BigDataApplication) · [Forest Fire Sim](https://github.com/ailton-santos/Forest_Fire_Simulation) · [Fault Forecasting](https://github.com/ailton-santos/Neural_Inline) |
+| 🦾 **Robotics & IoT** | [Robotics Dynamics](https://github.com/ailton-santos/Robotics-Dynamics-Control) • [S7-1500 Systems](https://github.com/ailton-santos/S7_1500User) | [AGV Planning](https://github.com/ailton-santos/AGVPlan) · [IoT Systems](https://github.com/ailton-santos/IoT) · [Network Monitoring](https://github.com/ailton-santos/Network_Ids) · [Process Control](https://github.com/ailton-santos/Process_Control) · [MQTT ESP8266](https://github.com/ailton-santos/MQTT_ESP8266) |
+| 🏗️ **BIM & Digital Twins** | [Building Flow](https://github.com/ailton-santos/BuildingFlow) • [Simple Clicker (Unreal)](https://github.com/ailton-santos/SimpleClicker) | [House Foundation](https://github.com/ailton-santos/Fundation80m2) · [Lean Construction](https://github.com/ailton-santos/leanconstruction) · [Analysis Efforts](https://github.com/ailton-santos/Analysis_Efforts) · [Property Valuation](https://github.com/ailton-santos/PropertyValuation) |
+| ☀️ **Renewable & Safety** | [Smart-Grid](https://github.com/ailton-santos/SmartGrid) • [NR15 Noise](https://github.com/ailton-santos/Noise_NR15) | [PV Solar Savings](https://github.com/ailton-santos/PVSolarSavings) · [Wind Energy](https://github.com/ailton-santos/WindEnergy) · [Layer Controller](https://github.com/ailton-santos/Layer-Controller) |
+| 💻 **Software Systems** | [SnackBar (Arch)](https://github.com/ailton-santos/SnackBar) • [File Sharing](https://github.com/ailton-santos/File_Sharing) | [Hamburgueria Marinheiro](https://github.com/ailton-santos/Hamburgueria_Matinheirov1) · [Lid Positioning](https://github.com/ailton-santos/LidPositioning) · [Patient Record](https://github.com/ailton-santos/NeuralNetworks_PatientRec) |
 
 ---
-### 📂 Project Topics & Correlations
-| 🎓 **Educational Resources**     | [Python](https://github.com/ailton-santos/Python_I) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [Python for Math](https://github.com/ailton-santos/Python_Math) · [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [C#](https://github.com/ailton-santos/CSharp_POO) ·  [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Front-End](https://github.com/ailton-santos/Front_End_Fundamentals) · [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) · [Electro](https://github.com/ailton-santos/PBLElectro) · [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [Julia](https://github.com/ailton-santos/Julia) | 
 
-### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=tokyonight" alt="Ailton stats" />
+### 🎓 Educational Resources & Training
+
+| Category | Available Learning Materials |
+| :--- | :--- |
+| **Data & AI** | [Python for AI](https://github.com/ailton-santos/Python_AI) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Julia](https://github.com/ailton-santos/Julia) |
+| **Development** | [C# POO](https://github.com/ailton-santos/CSharp_POO) · [Front-End Fundamentals](https://github.com/ailton-santos/Front_End_Fundamentals) · [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) |
+| **Engineering** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [PBL Electro](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=tokyonight" alt="Ailton stats" />
+</p>
+
+<p align="center">
+  <em>"The best way to predict the future is to simulate it."</em>
+</p>
