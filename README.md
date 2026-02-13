@@ -49,6 +49,8 @@ I am a multi-disciplinary Engineer passionate about converting complex industria
 | ☀️ **Renewable Energy** | [Smart Grid](https://github.com/ailton-santos/SmartGrid) · [PV Solar Savings](https://github.com/ailton-santos/PVSolarSavings) · [Wind Energy](https://github.com/ailton-santos/WindEnergy) |
 
 ---
+### 📂 Project Topics & Correlations
+| 🎓 **Educational Resources**     | [Python](https://github.com/ailton-santos/Python_I) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [Python for Math](https://github.com/ailton-santos/Python_Math) · [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [C#](https://github.com/ailton-santos/CSharp_POO) ·  [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Front-End](https://github.com/ailton-santos/Front_End_Fundamentals) · [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) · [Electro](https://github.com/ailton-santos/PBLElectro) · [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [Julia](https://github.com/ailton-santos/Julia) | 
 
 ### 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=tokyonight" alt="Ailton stats" />
