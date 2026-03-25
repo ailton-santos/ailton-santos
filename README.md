@@ -5,8 +5,7 @@
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
 
 <p align="center">
-  <strong>BIM Developer | AI & Robotics Engineer | Game Dev (Unreal Engine)</strong><br>
-  <em>17+ years of experience bridging Digital Twins, Human Behavior, and Industrial Tech.</em>
+  ### 👨🏻‍💻 Let's connect
 </p>
 
 <p align="center">
