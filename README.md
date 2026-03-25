@@ -4,9 +4,7 @@
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
 
-<p align="center">
-  ### 👨🏻‍💻 Let's connect
-</p>
+### 👨🏻‍💻 Let's connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="35" /></a>
