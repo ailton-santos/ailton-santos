@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="800">
 </p>
 
-<h1 align="center">Bridging Industrial Engineering & Immersive Technology</h1>
+<h1 align="center">Bridging Engineering & Immersive Technology</h1>
 
 <p align="center">
   <strong>BIM Developer | AI & Robotics Engineer | Game Dev (Unreal Engine)</strong><br>
@@ -15,16 +15,6 @@
 </p>
 
 ---
-
-### 🚀 About Me
-I am a multi-disciplinary Engineer passionate about converting complex industrial data into interactive, intelligent environments. My expertise lies at the intersection of **AI-driven analytics**, **Robotic automation**, and **Real-time 3D simulation (Digital Twins)**.
-
-- 🌍 **Location:** Based in São Paulo, Brazil (Multilingual).
-- 🛠️ **Current Focus:** Unreal Engine integration for BIM and Cognitive Computing.
-- 🎓 **Education:** Constant learner, sharing resources to empower the next generation of Devs & Engineers.
-
----
-
 ### 🛠️ Tech Stack
 
 **AI, Data Science & Analytics**
@@ -76,11 +66,6 @@ I am a multi-disciplinary Engineer passionate about converting complex industria
 | **Engineering** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [PBL Electro](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
 
 ---
-
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ailton-santos&show_icons=true&theme=tokyonight" alt="Ailton stats" />
-</p>
 
 <p align="center">
   <em>"The best way to predict the future is to simulate it."</em>
