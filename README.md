@@ -35,6 +35,7 @@
 **BIM & Engineering Tools**
 <p align="left">
   <img src="https://brandlogos.net/wp-content/uploads/2022/09/autodesk_revit-logo_brandlogos.net_4hpe4-512x512.png" height="30" alt="revit"/>
+  <img src="https://avatars.githubusercontent.com/u/6528209?s=200&v=4" height="30" alt="Dynamo"/>
   <img src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-7017516947713345x5letwbsz.png" height="30" alt="unrealengine"/>
   <img src="https://www.nirtec.com/wp-content/uploads/2026/01/TiaPortal.webp" height="30" alt="siemens"/>
   <img src="https://ni.scene7.com/is/image/ni/LabVIEW_152x116?$ni-icon-pm$" alt="labview" height="30"/>
@@ -47,11 +48,11 @@
 
 | Specialized Field | Key Projects (High Impact) | Extended Portfolio (Full List) |
 | :--- | :--- | :--- |
-| 🧠 **AI & Machine Vision** | [Machine Vision](https://github.com/ailton-santos/MachineVision) • [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) | [Predict Flight ML](https://github.com/ailton-santos/PredictFlightML) · [Big Data App](https://github.com/ailton-santos/BigDataApplication) · [Forest Fire Sim](https://github.com/ailton-santos/Forest_Fire_Simulation) · [Fault Forecasting](https://github.com/ailton-santos/Neural_Inline) |
-| 🦾 **Robotics & IoT** | [Robotics Dynamics](https://github.com/ailton-santos/Robotics-Dynamics-Control) • [S7-1500 Systems](https://github.com/ailton-santos/S7_1500User) | [AGV Planning](https://github.com/ailton-santos/AGVPlan) · [IoT Systems](https://github.com/ailton-santos/IoT) · [Network Monitoring](https://github.com/ailton-santos/Network_Ids) · [Process Control](https://github.com/ailton-santos/Process_Control) · [MQTT ESP8266](https://github.com/ailton-santos/MQTT_ESP8266) |
-| 🏗️ **BIM & Digital Twins** | [Building Flow](https://github.com/ailton-santos/BuildingFlow) • [Simple Clicker (Unreal)](https://github.com/ailton-santos/SimpleClicker) | • [Cube Game (Unity)](https://github.com/ailton-santos/CubeGame) | •  [House Foundation](https://github.com/ailton-santos/Fundation80m2) · [Lean Construction](https://github.com/ailton-santos/leanconstruction) · [Analysis Efforts](https://github.com/ailton-santos/Analysis_Efforts) · [Property Valuation](https://github.com/ailton-santos/PropertyValuation) | 
-| ☀️ **Renewable & Safety** | [Smart-Grid](https://github.com/ailton-santos/SmartGrid) • [NR15 Noise](https://github.com/ailton-santos/Noise_NR15) | [PV Solar Savings](https://github.com/ailton-santos/PVSolarSavings) · [Wind Energy](https://github.com/ailton-santos/WindEnergy) · [Layer Controller](https://github.com/ailton-santos/Layer-Controller) |
-| 💻 **Software Systems** | [SnackBar (Arch)](https://github.com/ailton-santos/SnackBar) • [File Sharing](https://github.com/ailton-santos/File_Sharing) | [Hamburgueria Marinheiro](https://github.com/ailton-santos/Hamburgueria_Matinheirov1) · [Lid Positioning](https://github.com/ailton-santos/LidPositioning) · [Patient Record](https://github.com/ailton-santos/NeuralNetworks_PatientRec) |
+| **AI Engineering** | [Gloss IA](https://github.com/ailton-santos/GlossIA) • [Deep Facade Inspector](https://github.com/ailton-santos/Deep_Facade_Inspector) • [Machine Vision](https://github.com/ailton-santos/MachineVision) • [Cognitive Computing](https://github.com/ailton-santos/CognitiveComputing) | [Predict Flight ML](https://github.com/ailton-santos/PredictFlightML) · [Big Data App](https://github.com/ailton-santos/BigDataApplication) · [Forest Fire Sim](https://github.com/ailton-santos/Forest_Fire_Simulation) · [Fault Forecasting](https://github.com/ailton-santos/Neural_Inline) |
+| **Robotics & IoT** | [Robotics Dynamics](https://github.com/ailton-santos/Robotics-Dynamics-Control) • [S7-1500 Systems](https://github.com/ailton-santos/S7_1500User) | [AGV Planning](https://github.com/ailton-santos/AGVPlan) · [IoT Systems](https://github.com/ailton-santos/IoT) · [Network Monitoring](https://github.com/ailton-santos/Network_Ids) · [Process Control](https://github.com/ailton-santos/Process_Control) · [MQTT ESP8266](https://github.com/ailton-santos/MQTT_ESP8266) |
+| **Digital Simulators** | [BIM AR Precision](https://github.com/ailton-santos/BIM_AR_Precision) • [Building Flow](https://github.com/ailton-santos/BuildingFlow) • [Simple Clicker (Unreal)](https://github.com/ailton-santos/SimpleClicker) | • [Cube Game (Unity)](https://github.com/ailton-santos/CubeGame) | •  [House Foundation](https://github.com/ailton-santos/Fundation80m2) · [Lean Construction](https://github.com/ailton-santos/leanconstruction) · [Analysis Efforts](https://github.com/ailton-santos/Analysis_Efforts) · [Property Valuation](https://github.com/ailton-santos/PropertyValuation) | 
+| **Renewable & Safety** | [Smart-Grid](https://github.com/ailton-santos/SmartGrid) • [NR15 Noise](https://github.com/ailton-santos/Noise_NR15) | [PV Solar Savings](https://github.com/ailton-santos/PVSolarSavings) · [Wind Energy](https://github.com/ailton-santos/WindEnergy) · [Layer Controller](https://github.com/ailton-santos/Layer-Controller) |
+| **Software Systems** | [SnackBar (Arch)](https://github.com/ailton-santos/SnackBar) • [File Sharing](https://github.com/ailton-santos/File_Sharing) | [Hamburgueria Marinheiro](https://github.com/ailton-santos/Hamburgueria_Matinheirov1) · [Lid Positioning](https://github.com/ailton-santos/LidPositioning) · [Patient Record](https://github.com/ailton-santos/NeuralNetworks_PatientRec) |
 
 ---
 
@@ -59,9 +60,11 @@
 
 | Category | Available Learning Materials |
 | :--- | :--- |
-| **Data & AI** | [Python for AI](https://github.com/ailton-santos/Python_AI) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Julia](https://github.com/ailton-santos/Julia) |
+| **Applied AI** | [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [Computer Vision for Building Inspection](https://github.com/ailton-santos/Python_DataScience) · [AI Integration in Renewable Energies](https://github.com/ailton-santos/R.DataScience) · [AI Systems for Digital Games](https://github.com/ailton-santos/Julia)  · [AI Systems for Digital Games](https://github.com/ailton-santos/Julia) |
+| **Data Science** | [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Julia](https://github.com/ailton-santos/Julia) |
 | **Development** | [C# POO](https://github.com/ailton-santos/CSharp_POO) · [Front-End Fundamentals](https://github.com/ailton-santos/Front_End_Fundamentals) · [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) |
-| **Engineering** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [PBL Electro](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
+| **Mechatronics** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [PBL Electro](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
+| **Embedded Systems* | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [PBL Electro](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
 
 ---
 
