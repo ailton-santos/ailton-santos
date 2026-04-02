@@ -61,10 +61,10 @@
 
 | Category | Available Learning Materials |
 | :--- | :--- |
-| **Applied AI** | [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI) · [Computer Vision for Building Inspection](https://github.com/ailton-santos/Python_DataScience) · [AI Integration in Renewable Energies](https://github.com/ailton-santos/R.DataScience) · [AI Systems for Digital Games](https://github.com/ailton-santos/Julia)  · [AI Systems for Digital Games](https://github.com/ailton-santos/Julia) |
-| **Data Science** |[Python for Data Science](https://github.com/ailton-santos/Python_DataScience) · [R for Data Science](https://github.com/ailton-santos/R.DataScience) · [Julia](https://github.com/ailton-santos/Julia) |
-| **Full-Stack Development** | [C#](https://github.com/ailton-santos/CSharp_POO) · [Front-End](https://github.com/ailton-santos/Front_End_Fundamentals) · 
-| **Engineering** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects) · [Electroeletronics](https://github.com/ailton-santos/PBLElectro) · [Python for Math](https://github.com/ailton-santos/Python_Math) |
+| **Applied AI** | [Python for Artificial Intelligence](https://github.com/ailton-santos/Python_AI)  •  [Computer Vision for Building Inspection] •  [AI Integration in Renewable Energies](https://github.com/ailton-santos/R.DataScience)  •  [AI Systems for Digital Games](https://github.com/ailton-santos/Julia)  •  [AI Systems for Digital Games](https://github.com/ailton-santos/Julia) |
+| **Data Science** |[Python for Data Science](https://github.com/ailton-santos/Python_DataScience)  •  [R for Data Science](https://github.com/ailton-santos/R.DataScience)  •  [Julia](https://github.com/ailton-santos/Julia) |
+| **Full-Stack Development** | [C#](https://github.com/ailton-santos/CSharp_POO)  •  [Front-End](https://github.com/ailton-santos/Front_End_Fundamentals) | 
+| **Engineering** | [Mechatronic Systems](https://github.com/ailton-santos/MechatrProjects)  •  [Electroeletronics](https://github.com/ailton-santos/PBLElectro)  •  [Python for Math](https://github.com/ailton-santos/Python_Math) |
 | **Mobile** | [Android Studio](https://github.com/ailton-santos/AndroidStudio_JavaClasses) |
 
 ---
