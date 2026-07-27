@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="100%">
-  <br>
-  <sub> <em>Architectural Visualization, Concept Art & Development by Ailton Santos (Unreal Engine Workflow).</em></sub>
+</p>
+<p align="right">
+  <sub>Architectural Visualization & Concept Art by Ailton Santos</sub>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unreal_Engine_Workflow-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" valign="middle">
+  </a>
 </p>
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
