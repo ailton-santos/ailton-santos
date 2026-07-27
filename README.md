@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="800">
+  <video src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.mp4" width="800" autoplay loop muted playsinline poster="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif">
+    Your browser does not support video playback.
+  </video>
 </p>
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
 
-### 👨🏻‍💻 Let's connect
+###  Let's connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="35" /></a>
@@ -12,7 +14,7 @@
 </p>
 
 ---
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **AI, Data Science & Analytics**
 <p align="left">
@@ -45,7 +47,7 @@
 
 ---
 
-### 📂 Specialized Portfolio & Project Correlations
+###  Specialized Portfolio & Project Correlations
 
 | Specialized Field | Key Projects (High Impact) | Extended (Full List) |
 | :--- | :--- | :--- |
