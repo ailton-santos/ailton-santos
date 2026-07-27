@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="800">
+  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="100%">
+  <br>
+  <sub> <em>Architectural Visualization, Concept Art & Development by Ailton Santos (Unreal Engine Workflow).</em></sub>
 </p>
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
