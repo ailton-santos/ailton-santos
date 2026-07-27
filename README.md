@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="100%">
 </p>
 <p align="right">
-  <sub>Architectural Visualization & Concept Art by Ailton Dos Santos</sub>
+  <sub>Architectural Visualization, Concept Art and Development by Ailton Dos Santos</sub>
   <a href="https://www.unrealengine.com/" target="_blank">
     <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" valign="middle">
   </a>
