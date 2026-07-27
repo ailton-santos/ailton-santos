@@ -1,7 +1,5 @@
 <p align="center">
-  <video src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.mp4" width="800" autoplay loop muted playsinline poster="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif">
-    Your browser does not support video playback.
-  </video>
+  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="800">
 </p>
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
