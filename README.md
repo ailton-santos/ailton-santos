@@ -1,20 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="100%">
-</p>
-<p align="right">
-  <sub>Architectural Visualization, Concept Art and Development by Ailton Dos Santos</sub>
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" valign="middle">
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ailton-santos/ailton-santos/main/Head_Profile.gif" alt="Ailton Santos Banner" width="80%">
+  <p align="center">
+    <sub><em>Architectural Visualization, Concept Art and Development by Ailton Dos Santos</em></sub>
+    &nbsp;
+    <a href="https://www.unrealengine.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" style="vertical-align: middle;">
+    </a>
+  </p>
+</div>
 
 <h1 align="center">Bridging Engineering & Immersive Technology</h1>
 
-###  Let's connect
+<h3 align="center">Let's connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ailtonjsantos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="35" /></a>
-  <a href="https://www.xing.com/profile/Ailton_DosSantos7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="xing" height="35" /></a>
+  <a href="https://linkedin.com/in/ailtonjsantos" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.xing.com/profile/Ailton_DosSantos7" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing" height="30" />
+  </a>
 </p>
 
 ---
